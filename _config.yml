@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: intzero's Blog
-author: intzero
-email: intzero@outlook.com
+title: cuiiug's Blog
+author: cuiiug
+email: myjava_cn@126.com
 description: > # this means to ignore newlines until "baseurl:"
   程序媛/小硕/外协/折腾/技术宅
 url: http://lszero.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -36,11 +36,11 @@ excerpt_separator: <!-- more -->
 permalink: /:categories/:title.html
 
 social_media:
-  github_url: https://github.com/lszero
-  weibo_url: http://weibo.com/u/2313016370
-  zhihu_url: https://www.zhihu.com/people/lszero
-  twitter_url: https://twitter.com/_lszero
-  lofter_url: http://intzero.lofter.com/
+  github_url: https://github.com/cuiiug
+  weibo_url: https://weibo.com/yxfree
+  zhihu_url: 
+  twitter_url: 
+  lofter_url: 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
