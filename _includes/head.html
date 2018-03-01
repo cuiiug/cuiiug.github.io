@@ -50,9 +50,11 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
   <script type="text/javascript">
-    var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
-    aTagArr.forEach(function (e, i) {
-      e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
-    });
+    window.onload = function(){
+		  var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
+			aTagArr.forEach(function (e, i) {
+			 e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
+		   });
+		}
   </script>
 </head>
