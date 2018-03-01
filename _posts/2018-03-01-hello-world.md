@@ -12,5 +12,4 @@ tags: [github, jekyll, bootstrap]
 one thing 
 
 ##  secod two
-
 two thing
