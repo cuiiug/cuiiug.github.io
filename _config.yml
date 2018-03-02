@@ -37,7 +37,7 @@ permalink: /:categories/:title.html
 
 social_media:
   github_url: https://github.com/cuiiug
-  #weibo_url: 
+  weibo_url: https://weibo.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
