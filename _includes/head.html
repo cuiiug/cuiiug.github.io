@@ -55,6 +55,11 @@
 			aTagArr.forEach(function (e, i) {
 			 e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
 		   });
+      $("#search-form").submit(function(event){
+      var query = document.getElementById("search-input").value;
+      alert(query);
+      window.open("http://baidu.com/search?q=" + query + "%20site:" + "cuiiug.github.io");
+    });
 		}
   </script>
 </head>
