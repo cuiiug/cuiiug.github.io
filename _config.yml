@@ -36,7 +36,7 @@ excerpt_separator: <!-- more -->
 permalink: /:categories/:title.html
 
 social_media:
-  github_url: https://github.com/cuiiug
+  github_url: https://github.com/cuiiug,
   weibo_url: https://weibo.com/yxfree
 
 # Exclude from processing.
